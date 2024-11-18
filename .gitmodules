@@ -1,0 +1,24 @@
+[submodule "jobs"]
+	path = jobs
+	url = git@github.com:Hirely-org/jobs.git
+[submodule "users"]
+	path = users
+	url = git@github.com:Hirely-org/users.git
+[submodule "image_processing"]
+	path = image_processing
+	url = git@github.com:Hirely-org/image_processing.git
+[submodule "notifications"]
+	path = notifications
+	url = git@github.com:Hirely-org/notifications.git
+[submodule "mobile_application"]
+	path = mobile_application
+	url = git@github.com:Hirely-org/mobile_application.git
+[submodule "job_applications"]
+	path = job_applications
+	url = git@github.com:Hirely-org/job_applications.git
+[submodule "categories"]
+	path = categories
+	url = git@github.com:Hirely-org/categories.git
+[submodule "k8s"]
+	path = k8s
+	url = git@github.com:Hirely-org/k8s.git
