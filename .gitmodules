@@ -22,3 +22,9 @@
 [submodule "k8s"]
 	path = k8s
 	url = git@github.com:Hirely-org/k8s.git
+[submodule "jobs_write"]
+	path = jobs_write
+	url = git@github.com:Hirely-org/jobs_write.git
+[submodule "jobs-read"]
+	path = jobs-read
+	url = git@github.com:Hirely-org/jobs-read.git
